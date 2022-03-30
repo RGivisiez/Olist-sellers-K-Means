@@ -1,4 +1,4 @@
-# Identificando características de bons vendedores
+# E-commerce: Identificando características de bons vendedores
 
 [![Website](https://img.shields.io/badge/Site%20Pessoal-RGivisiez-red?style=flat&for-the-badge&logo=github)][mysite]
 
