@@ -10,4 +10,10 @@
 
 **Objetivo:** Separar e identificar, de forma automatizada, características de vendedores com base nas avaliações dos usuários. Além disso, propor mudanças por parte da empresa de marketplace e dos vendedores para melhor atender os compradores.
 
+**Resultados:** A imagem abaixo mostra os clusters que separam os vendedores. Existe uma área de interseção entre os clusters onde os vendedores possuem notas entre 2.5 e 3.5. 
+
+![Sellers_clusters](https://github.com/RGivisiez/Olist-sellers-K-Means/blob/c7289e289c3dca66aabdada6e6a1cbfa1ca33905/sellers_cluster.png)
+|:--:| 
+| *Três clusters separando os vendedores com avaliações ruins (1), médias (0) e boas (2).* |
+
 [mysite]: https://rgivisiez.github.io/
